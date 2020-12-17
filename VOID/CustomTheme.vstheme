@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="VOID (6)" GUID="{3ec85c78-d597-40de-9758-194a7e926721}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="VOID (7)" GUID="{5203320c-6051-478a-a1a6-047da48bc7ea}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
@@ -1703,7 +1703,7 @@
       </Color>
       <Color Name="CppStringDelimiterCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF808080" />
+        <Foreground Type="CT_RAW" Source="FF4AB667" />
       </Color>
       <Color Name="Python operator">
         <Background Type="CT_INVALID" Source="00000000" />
